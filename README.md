@@ -1,5 +1,4 @@
 
-<<<<<<< HEAD
 # 🎓 College ERP System -- WEBTECHFLY
 
 **A Modern MERN Stack Based Academic Management Platform**
